@@ -1,0 +1,16 @@
+{
+  "name": "algorithms-training",
+  "version": "1.0.0",
+  "scripts": {
+    "task": "node 1A-interactor/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasha-who/algorithms-training.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasha-who/algorithms-training/issues"
+  },
+  "homepage": "https://github.com/sasha-who/algorithms-training#readme"
+}
