@@ -2,7 +2,7 @@
   "name": "algorithms-training",
   "version": "1.0.0",
   "scripts": {
-    "task": "node section-1/A-interactor/index.js"
+    "task": "node section-1/B-circle-line/index.js"
   },
   "repository": {
     "type": "git",
