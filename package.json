@@ -2,7 +2,7 @@
   "name": "algorithms-training",
   "version": "1.0.0",
   "scripts": {
-    "task": "node section-1/C-date-format/index.js"
+    "task": "node section-1/D-school-construction/index.js"
   },
   "repository": {
     "type": "git",
