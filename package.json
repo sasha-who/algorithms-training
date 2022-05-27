@@ -2,7 +2,7 @@
   "name": "algorithms-training",
   "version": "1.0.0",
   "scripts": {
-    "task": "node section-2/A-max-count/index.js"
+    "task": "node section-2/B-houses-and-shops/index-1.js"
   },
   "repository": {
     "type": "git",
