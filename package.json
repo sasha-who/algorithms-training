@@ -2,7 +2,7 @@
   "name": "algorithms-training",
   "version": "1.0.0",
   "scripts": {
-    "task": "node section-2/D-benches/index.js"
+    "task": "node section-2/E-diplomas/index.js"
   },
   "repository": {
     "type": "git",
