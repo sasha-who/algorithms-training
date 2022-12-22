@@ -1,3 +1,3 @@
-# Solutions to algorithmic tasks
+# Algorithms Training
 
-As part of [Yandex training](https://yandex.ru/yaintern/algorithm-training).
+Solutions for the algorithmic tasks as part of the [Yandex training](https://yandex.ru/yaintern/algorithm-training).
